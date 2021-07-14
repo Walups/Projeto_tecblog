@@ -1,0 +1,151 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+
+    font-size: 1em;
+    background-color: #e6e6e6;
+
+}
+
+/*Header*/
+
+#hdr_site{
+
+    background: #feb800; /*laranja padrão*/
+    text-align: center;
+
+}
+
+#tec{
+
+    color: #4e4e4e;
+
+}
+
+#hdr_site a{
+
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+#log_menu{
+
+    font-size: 1.5em;
+
+}
+
+#nav_site{
+
+    padding: 12px;
+    font-size: 1.2em;
+
+}
+
+#nav_site a:visited, a:link{
+
+    padding: 8px 12px ;
+
+}
+
+#nav_site a:hover{
+
+    padding: 8px 12px ;
+    background-color: #ffffff;
+    color: #feb800;
+
+}
+
+#main_body{
+
+    width: 920px;
+    margin: 10px auto;
+
+}
+
+#art_main{
+
+    width: 680px;
+    float: left;
+
+}
+
+#asd_nav{
+
+    width: 220px;
+    float: right;
+
+}
+
+.sect_asd{
+
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 15px 0px;
+
+}
+
+.sect_asd h2{
+
+    font-size: 18px;
+    margin-bottom: 5px;
+    background-color: #d3d3d3;
+    padding: 1px;
+
+}
+
+.sect_asd p{
+
+    margin: 3px;
+
+}
+
+#cat_nav a{
+
+    display: block;
+    color: #feb800;
+
+}
+
+.contents{
+
+    background-color: #ffffff;
+    padding: 1em;
+    margin: 15px auto;
+}
+
+.hdr_contents{
+
+    margin-bottom: 5px;
+    color: #feb800;
+
+}
+
+.hdr_contents p{
+
+    font-size: 12px;
+    color: black;
+
+}
+
+.body_content img{
+
+    margin: 10px auto ;
+
+}
+
+footer{
+
+    background-color: #ccc;
+    display: block;
+    clear: both;
+    padding: 1em;
+    text-align: center;
+
+}
